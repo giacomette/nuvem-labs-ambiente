@@ -13,6 +13,5 @@
 
 Docker Scripts
 
-Mysql/MariaDB
 * docker run -e MYSQL_ALLOW_EMPTY_PASSWORD=true --name mariaDB-localhost -d -p 3306:3306 mariadb:10.3
 * docker run -d --hostname my-rabbit --name rabbitMQ-localhost -p 15672:15672 -p 5672:5672 -p 25676:25676 rabbitmq:management
