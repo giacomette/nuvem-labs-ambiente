@@ -9,7 +9,9 @@
 * instalar o docker (brew install docker)
 * instalar o cli da heroku (brew tap heroku/brew && brew install heroku)
 * instalar mysql workbench (https://dev.mysql.com/downloads/workbench ou brew install cask mysqlworkbench)
-
+* criar conta no Github (https://github.com)
+* criar conta na Figma (https://www.figma.com)
+* criar conta na Heroku (https://heroku.com)
 
 Docker Scripts
 
